@@ -31,19 +31,19 @@ const Nav = () => {
       </div>
       <div className="flex items-center gap-2">
         <Link href="https://www.linkedin.com/in/chua-shi-hong-62742a222/" passHref target="_blank">
-          <Image src="/icons/linkedin.png" alt="LinkedIn" width={30} height={30}
+          <Image src="./icons/linkedin.png" alt="LinkedIn" width={30} height={30}
             className="hover:scale-125 transition-transform duration-200" />
         </Link>
         <Link href="https://github.com/chuashihong" passHref target="_blank">
-          <Image src="/icons/github.png" alt="GitHub" width={30} height={30}
+          <Image src="./icons/github.png" alt="GitHub" width={30} height={30}
             className="hover:scale-125 transition-transform duration-200" />
         </Link>
         <Link href="https://www.instagram.com/chuashihong/" passHref target="_blank">
-          <Image src="/icons/instagram.png" alt="Instagram" width={30} height={30}
+          <Image src="./icons/instagram.png" alt="Instagram" width={30} height={30}
             className="hover:scale-125 transition-transform duration-200" />
         </Link>
         <Link href="/resume.pdf" passHref target="_blank">
-          <Image src="/icons/resume.png" alt="Resume" width={30} height={30}
+          <Image src="./icons/resume.png" alt="Resume" width={30} height={30}
             className="hover:scale-125 transition-transform duration-200" />
         </Link>
       </div>

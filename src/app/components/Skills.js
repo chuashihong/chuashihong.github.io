@@ -3,26 +3,26 @@ import React from 'react';
 
 const Skills = () => {
   const familiarSkills = [
-    { name: "Java", icon: "/icons/java.png" },
-    { name: "Python", icon: "/icons/python.png" },
-    { name: "C++", icon: "/icons/cpp.png" },
-    { name: "Git", icon: "/icons/git.png" },
-    { name: "PostgreSQL", icon: "/icons/postgresql.png" },
-    { name: "Firebase", icon: "/icons/firebase.png" },
-    { name: "React", icon: "/icons/react.png" },
-    { name: "TailwindCSS", icon: "/icons/tailwind.png" },
-    { name: "JavaScript", icon: "/icons/javascript.png" },
-    { name: "HTML", icon: "/icons/html.png" },
-    { name: "CSS", icon: "/icons/css.png" },
-    { name: "Figma", icon: "/icons/figma.png" },
+    { name: "Java", icon: "./icons/java.png" },
+    { name: "Python", icon: "./icons/python.png" },
+    { name: "C++", icon: "./icons/cpp.png" },
+    { name: "Git", icon: "./icons/git.png" },
+    { name: "PostgreSQL", icon: "./icons/postgresql.png" },
+    { name: "Firebase", icon: "./icons/firebase.png" },
+    { name: "React", icon: "./icons/react.png" },
+    { name: "TailwindCSS", icon: "./icons/tailwind.png" },
+    { name: "JavaScript", icon: "./icons/javascript.png" },
+    { name: "HTML", icon: "./icons/html.png" },
+    { name: "CSS", icon: "./icons/css.png" },
+    { name: "Figma", icon: "./icons/figma.png" },
   ];
   const experienceLevelSkills = [
-    { name: "Node.js", icon: "/icons/nodejs.png" },
-    { name: "TypeScript", icon: "/icons/ts.png" },
-    { name: "Flutter", icon: "/icons/flutter.png" },
-    { name: "AlpineJS", icon: "/icons/alpinejs.png" },
-    { name: "Vue.js", icon: "/icons/vue.png" },
-    { name: "Next.js", icon: "/icons/nextjs.png" },
+    { name: "Node.js", icon: "./icons/nodejs.png" },
+    { name: "TypeScript", icon: "./icons/ts.png" },
+    { name: "Flutter", icon: "./icons/flutter.png" },
+    { name: "AlpineJS", icon: "./icons/alpinejs.png" },
+    { name: "Vue.js", icon: "./icons/vue.png" },
+    { name: "Next.js", icon: "./icons/nextjs.png" },
 
   ];
   return (
