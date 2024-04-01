@@ -15,7 +15,7 @@ const Nav = () => {
         {/* When clicked, this image will use the scrollToTop function */}
         <a href="/" className="cursor-pointer mr-4">
           <Image
-            src="/headericon.webp"
+            src="./headericon.webp"
             alt="CSH Logo"
             width={50}
             height={50}

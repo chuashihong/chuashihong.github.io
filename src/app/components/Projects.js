@@ -10,7 +10,7 @@ const Projects = () => {
         <div className="grid grid-cols-1 gap-4 w-full">
           <div className="p-4 shadow-md">
             <h2 className="font-bold text-xl mb-2">Dental Software</h2>
-            <Image src="/dental.png" alt="Saviour of Savour" width={128} height={128} className=" mb-4" />
+            <Image src="./dental.png" alt="Saviour of Savour" width={128} height={128} className=" mb-4" />
             <p>
               Dental Software is a software that helps dental clinics to manage their patients, appointments, and billing.
               It is a platform where dental clinics can manage their patients' information and appointments easily.
@@ -21,7 +21,7 @@ const Projects = () => {
           </div>
           <div className="p-4 shadow-md">
             <h2 className="font-bold text-xl mb-2">Saviour of Savour</h2>
-            <Image src="/sos.png" alt="Saviour of Savour" width={128} height={128} className=" mb-4" />
+            <Image src="./sos.png" alt="Saviour of Savour" width={128} height={128} className=" mb-4" />
             <p>Saviour of Savour is a food delivery app that
               aims to fulfil the student's needs. It is a platform
               where students can order food from the canteen and
